@@ -2,7 +2,7 @@
 var customerName = 'bob';
 
 function upperCaseCustomerName() {
-  customerName.toUpperCase;
+  customerName = customerName.toUpperCase;
 }
 
 function setBestCustomer() {
@@ -14,7 +14,7 @@ function overWriteBestCustomer() {
 }
 
 function reassignLeastFavorite() {
-  
+
 }
 
 function attemptTwoFavoriteCustomers() {
