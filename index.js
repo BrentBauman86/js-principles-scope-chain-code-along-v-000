@@ -10,7 +10,7 @@ function setBestCustomer() {
 }
 
 function overWriteBestCustomer() {
-  bestCustomer = 'still not bob';
+  bestCustomer = 'maybe bob';
 }
 
 function reassignLeastFavorite() {
